@@ -1,0 +1,2 @@
+# mesin-komputer
+membuat bot
